@@ -18,7 +18,6 @@ Hey! I’m Haris  👋
    
    <h2>🍿About me</h2>
    <ul>
-      <li>Fitness First </li>
       <li>Pursuing UnderGraduate degree in Physics</li>
       <li>I trade on Cryptocurrencies</li>
       <li>Love to explore more on Blockchain </li>
