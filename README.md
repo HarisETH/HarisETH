@@ -27,12 +27,9 @@ Hey! I’m Haris  👋
    <h2>📈 My Stats</h2>
    
   <div align="center">
-   
    ![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariseth&count_private=true)
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hariseth&theme=radical)](https://git.io/streak-stats)
-   
    </div>
    
   <hr/>
   Thanks for Reading ! Would be glad to connect with you 🍿
-   
